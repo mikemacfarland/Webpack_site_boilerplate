@@ -1,6 +1,6 @@
-#Webpack website
+# Webpack website
 
-##dev dependencies
+## dev dependencies
     - css-loader
     - html-webpack-plugin
     - live-server
@@ -10,7 +10,7 @@
     - webpack-cli
     - webpack-dev-server
 
-##Instructions on how to install and run the project locally.
+## Instructions on how to install and run the project locally.
     - Clone repo
     - Cd into folder
     - run `npm i`
